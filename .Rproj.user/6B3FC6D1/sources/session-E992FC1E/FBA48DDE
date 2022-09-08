@@ -1,0 +1,26 @@
+{
+    "id": "FBA48DDE",
+    "path": "~/analyzeIntrospectr/R/03_Statistical_test.R",
+    "project_path": "R/03_Statistical_test.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1662483379808.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,53",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662483441,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662483441930,
+    "read_only": false,
+    "read_only_alternatives": []
+}

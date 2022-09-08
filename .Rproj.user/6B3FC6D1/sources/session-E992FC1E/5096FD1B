@@ -1,0 +1,26 @@
+{
+    "id": "5096FD1B",
+    "path": "~/analyzeIntrospectr/R/dataset.R",
+    "project_path": "R/dataset.R",
+    "type": "r_source",
+    "hash": "44076614",
+    "contents": "",
+    "dirty": false,
+    "created": 1662304572792.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662636816,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662636816129,
+    "read_only": false,
+    "read_only_alternatives": []
+}

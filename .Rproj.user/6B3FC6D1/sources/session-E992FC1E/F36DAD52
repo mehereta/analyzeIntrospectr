@@ -1,0 +1,26 @@
+{
+    "id": "F36DAD52",
+    "path": "~/analyzeIntrospectr/man/clean.files.Rd",
+    "project_path": "man/clean.files.Rd",
+    "type": "r_doc",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1662485905029.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662483666,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662483666,
+    "read_only": false,
+    "read_only_alternatives": []
+}

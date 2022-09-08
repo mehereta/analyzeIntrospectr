@@ -1,0 +1,26 @@
+{
+    "id": "C0B45BA8",
+    "path": "~/analyzeIntrospectr/R/02_Word level plots-tables.R",
+    "project_path": "R/02_Word level plots-tables.R",
+    "type": "r_source",
+    "hash": "1654126200",
+    "contents": "",
+    "dirty": false,
+    "created": 1662313926803.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "73,1",
+        "scrollLine": "51"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662483212,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662483212310,
+    "read_only": false,
+    "read_only_alternatives": []
+}
