@@ -10,7 +10,7 @@ Imports: tidyverse,
   emmeans
 Authors@R: c(
     person("Ethan", "Roy", email ="ethanroy@stanford.edu", role = c("aut", "cre")
-    )
+     comment = c(ORCID = "0000-0002-4956-2237"))
     person("Meheret", "Abebe", email= "meheret@stanford.edu", role = c("ctb")))
 Description: Various functions that help to first import, clean, and add variables to a dataset, and then plot
     and save specific, updated data from the full dataset to csv files. It contains funcions that can generate individual-level plots/tables or word 
@@ -24,7 +24,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Suggests: 
     knitr,
-    rmarkdown,
-    testthat (>= 3.0.0)
+    rmarkdown
 VignetteBuilder: knitr
-Config/testthat/edition: 3
