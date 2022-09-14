@@ -16,7 +16,7 @@ statistical.test(
 \arguments{
 \item{dataframe}{includes information about the participants}
 
-\item{data_quality_type}{whether it is paired or not}
+\item{data_quality_type}{indication of whether the data is 'paired' or 'not'}
 
 \item{number_of_timepoints}{number of timepoints}
 

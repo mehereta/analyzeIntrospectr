@@ -19,7 +19,7 @@
 plots
 }
 \description{
-this function finds the accuracy by word type (flags for class and time point) and also plots give the accuracy for each individual.
+finds and plots the accuracy by word type
 }
 \examples{
 plot.accuracy(final_processed_file,1,1,2)

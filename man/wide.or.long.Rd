@@ -7,9 +7,9 @@
 wide.or.long(format, dataframe)
 }
 \arguments{
-\item{format}{of the csv file you want to save as (either 'wide','long', or 'both')}
+\item{format}{format of the csv file you want to save as (either 'wide','long', or 'both')}
 
-\item{dataframe}{to be saved}
+\item{dataframe}{dataframe}
 }
 \value{
 saved csv file

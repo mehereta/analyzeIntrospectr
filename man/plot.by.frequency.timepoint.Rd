@@ -4,14 +4,14 @@
 \alias{plot.by.frequency.timepoint}
 \title{Plot percentage of response for low/high/magic words}
 \usage{
-\method{plot}{by.frequency.timepoint}(dataframe, magiccword_group, word_type_list = list(word1))
+\method{plot}{by.frequency.timepoint}(dataframe, magicword_group, word_type_list = list(word1))
 }
 \arguments{
 \item{dataframe}{includes information about the participants}
 
-\item{magiccword_group}{group number of the magic words}
-
 \item{word_type_list}{a list of word types that you want your plots based on such as 'magic','common','pseudo'}
+
+\item{magiccword_group}{group number of the magic words}
 }
 \value{
 plots

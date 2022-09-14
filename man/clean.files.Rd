@@ -13,8 +13,8 @@ clean.files(filepath)
 a cleaned data frame consisting information about subjects
 }
 \description{
-imports,processes, and cleans the files in the data folder to create an initial dataframe with information about each subject
+imports,processes, and cleans the files in the data folder to create an initial dataframe with experimental information about each subject
 }
 \examples{
- clean.files('C:\\\\Users\\\\meher\\\\Desktop\\\\ED neurolab work\\\\data')
+ clean.files('C:\\\\Users\\\\meher\\\\Desktop\\\\EDneurolabwork\\\\data')
 }

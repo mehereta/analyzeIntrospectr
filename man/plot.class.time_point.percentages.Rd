@@ -7,9 +7,9 @@
 \method{plot}{class.time_point.percentages}(dataframe, group_number, magicword_group)
 }
 \arguments{
-\item{dataframe}{that includes information about the participants}
+\item{dataframe}{includes information about the participants}
 
-\item{group_number}{that is used to create the plots}
+\item{group_number}{is used to create the plots}
 
 \item{magicword_group}{the group number of the magic words}
 }

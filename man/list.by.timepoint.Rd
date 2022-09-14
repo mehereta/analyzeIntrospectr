@@ -7,15 +7,15 @@
 list.by.timepoint(timepointcount, dataframe)
 }
 \arguments{
-\item{timepointcount}{is till what time point you want to list the participants by}
+\item{timepointcount}{till what timepoint you want to list the participants by}
 
-\item{dataframe}{containing information about participants}
+\item{dataframe}{contains information about participants}
 }
 \value{
 saved csv file
 }
 \description{
-generates a list of each participant by time point
+generates a list of participants by timepoint
 }
 \examples{
 list.by.timepoint(3,final_processed_file)

@@ -17,7 +17,7 @@ checking.function(dataframe, magicgroup_number, group_number)
 a csv file
 }
 \description{
-this is a checking function
+this is a checking function that saves the changes in a csv file
 }
 \examples{
 checking.function(final_processed_file,2,2)

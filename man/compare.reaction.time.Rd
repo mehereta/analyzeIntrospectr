@@ -7,15 +7,15 @@
 compare.reaction.time(dataframe, save_file_as = "rt_changes.csv")
 }
 \arguments{
-\item{dataframe}{that includes information about the participants}
+\item{dataframe}{includes information about the participants}
 
-\item{save_file_as}{the name of the file we want to save as}
+\item{save_file_as}{name of the file we want to save as}
 }
 \value{
 a saved csv file
 }
 \description{
-generates a data frame for comparing reaction times across time point by individual and word
+generates a data frame for comparing reaction times across timepoints by individuals and words
 }
 \examples{
 compare.reaction.time(final_processed_file,save_file_as='rt_changes.csv')
