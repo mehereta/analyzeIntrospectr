@@ -1,5 +1,15 @@
 # analyzeIntrospectr
-This package contains Various functions that help to first import, clean, and add variables to a dataset, and then plot
+
+## Installation
+
+You can install the development version of tractr from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("mehereta/analyzeIntrospectr")
+```
+
+This package contains various functions that help to first import, clean, and add variables to a dataset, and then plot
 and save specific, updated data from the full dataset to csv files. It contains functions that can generate individual-level plots/tables and word 
 level plots/tables from a dataset that contains information about the subjects in a specific group, the words they learned, the type 
 of word (magic,pseudo, or common) and the accuracy of their responses based on the words they learned. It also consists of functions
