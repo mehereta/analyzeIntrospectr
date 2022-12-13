@@ -53,7 +53,7 @@ plot.by.frequency.timepoint <- function(dataframe,magicword_group, word_type_lis
 
   for (word in word_type_list){
     # plot Percentage of Responses for all the given word type Across Timepoints for the specific class number
-    print ( final_processed_file %>%
+    print ( dataframe %>%
               filter(block!='practice') %>%
               filter(itemType==word) %>%
               filter(!is.na(itemType)) %>%
