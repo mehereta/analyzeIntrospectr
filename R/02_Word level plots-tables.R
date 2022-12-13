@@ -9,7 +9,7 @@
 #'
 #' @description plots the percentage of response for low/high/magic words by timepoint
 #' @param dataframe includes information about the participants
-#' @param magiccword_group group number of the magic words
+#' @param magicword_group group number of the magic words
 #' @param word_type_list a list of word types that you want your plots based on such as 'magic','common','pseudo'
 #'
 #' @return plots
@@ -45,7 +45,7 @@ plot.by.frequency.timepoint <- function(dataframe,magicword_group, word_type_lis
           mutate(percent_resp = resp_count/sum(resp_count))%>%
           ggplot(aes(x=words, y = percent_resp*100, fill=mouse.clicked_name))+
           geom_bar(stat="identity", width = 0.7)+
-          ggtitle(paste0('Percentage of Responses by Group ', magiccword_group,' Low Frequency Word Across Timepoints - Group ',magicword_group))+
+          ggtitle(paste0('Percentage of Responses by Group ', magicword_group,' Low Frequency Word Across Timepoints - Group ',magicword_group))+
           ylab('Percent')+
           theme(axis.text.x = element_text(angle=90, vjust=1, hjust=1))+
           coord_flip()+
